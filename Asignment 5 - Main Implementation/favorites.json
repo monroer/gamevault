@@ -1,0 +1,28 @@
+{
+  "monroer": [
+    {
+      "item_type": "game",
+      "item_id": "1",
+      "favorite": true,
+      "pinned": false
+    },
+    {
+      "item_type": "game",
+      "item_id": "3",
+      "favorite": false,
+      "pinned": true
+    },
+    {
+      "item_type": "game",
+      "item_id": "4",
+      "favorite": false,
+      "pinned": false
+    },
+    {
+      "item_type": "game",
+      "item_id": "5",
+      "favorite": true,
+      "pinned": false
+    }
+  ]
+}

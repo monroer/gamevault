@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Elden Ring",
+    "platform": "PC",
+    "status": "Completed",
+    "playtime": 220.0,
+    "rating": "10",
+    "date_added": "2026-02-09"
+  },
+  {
+    "id": 2,
+    "title": "Roblox",
+    "platform": "PC",
+    "status": "On Hold",
+    "playtime": 120.0,
+    "rating": "7",
+    "date_added": "2026-02-09"
+  },
+  {
+    "id": 3,
+    "title": "Mario Galaxy",
+    "platform": "Nintendo Switch",
+    "status": "Completed",
+    "playtime": 0.0,
+    "rating": "Not rated",
+    "date_added": "2026-02-09"
+  },
+  {
+    "id": 4,
+    "title": "Clash of Clans",
+    "platform": "Mobile",
+    "status": "Playing",
+    "playtime": 189.0,
+    "rating": "Not rated",
+    "date_added": "2026-02-09"
+  },
+  {
+    "id": 5,
+    "title": "Pikmin",
+    "platform": "Nintendo Switch",
+    "status": "Wishlist",
+    "playtime": 0.0,
+    "rating": "Not rated",
+    "date_added": "2026-02-09"
+  }
+]
